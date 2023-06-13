@@ -65,6 +65,11 @@ comparisom of some distinct states?
 
 etc.
 
+POWERBI VISUALIZATION
+
+![Screenshot (4)](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/89e3ac9d-fe8c-41a6-947d-c15e55301ae9)
+
+
 ANALYSING WORKERS IN A COMPANY
 
 https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/blob/main/WORKERS_ANALYSIS.sql
@@ -146,6 +151,7 @@ Scores of students whose parent got some high school degree?
 
 etc.
 
+POWER BI VISUALIZATION
 
 ![Screenshot (3)](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/43184d58-3997-4a38-a821-8d2a465dc007)
 
