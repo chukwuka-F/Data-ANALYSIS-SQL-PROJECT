@@ -67,6 +67,8 @@ etc.
 
 ANALYSING WORKERS IN A COMPANY
 
+https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/blob/main/WORKERS_ANALYSIS.sql
+
 The dataset for this project was obtained from a company. A total of 6704 data points were collected. The dataset included five variables: age, experience, job role, education level and salary.
 
 This is an SQL and PowerBI project for analyzing workers in the company using MySQL, Microsoft Excel and PowerBI tools and visualizing my findings which include;
