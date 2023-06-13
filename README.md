@@ -145,6 +145,8 @@ Scores of students whose parent got a msaters degree?
 Scores of students whose parent got some high school degree?
 
 etc.
+![image](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/ec17614d-7fee-4844-b4b5-0ec9d7920d08)
+
 
 
 
