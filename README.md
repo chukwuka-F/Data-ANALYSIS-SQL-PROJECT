@@ -65,7 +65,7 @@ comparisom of some distinct states?
 
 etc.
 
-POWERBI VISUALIZATION
+POWER BI VISUALIZATION
 
 ![Screenshot (4)](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/89e3ac9d-fe8c-41a6-947d-c15e55301ae9)
 
@@ -94,6 +94,11 @@ The job that has the highest paid salary?
 Percentage difference between the highest paid salary and the lowest paid salary?
 
 etc.
+
+POWER BI VISUALIZATION
+
+![Screenshot (7)](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/70c71f00-e39a-4aad-9fcb-c01d6b71de92)
+
 
 SCHOOL STUDENTS PERFORMANCE (SQL and POWERBI PROJECT)
 
@@ -154,6 +159,9 @@ etc.
 POWER BI VISUALIZATION
 
 ![Screenshot (3)](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/43184d58-3997-4a38-a821-8d2a465dc007)
+
+![Screenshot (5)](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/e1e7678a-aaea-4e6c-b0d8-334bf2a175da)
+
 
 
 
