@@ -94,7 +94,7 @@ SCHOOL STUDENTS PERFORMANCE (SQL and POWERBI PROJECT)
 
 https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/blob/main/student_analysis.sql
 
-
+https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/blob/main/students_score_performance.sql
 
 This dataset used for this project includes scores from three test scores of students in a class in a public school and a variety of personal and socio-economic factors that may have interaction effects upon them.
 
