@@ -163,6 +163,41 @@ POWER BI VISUALIZATION
 ![Screenshot (5)](https://github.com/chukwuka-F/Data-ANALYSIS-SQL-PROJECT/assets/133849372/e1e7678a-aaea-4e6c-b0d8-334bf2a175da)
 
 
+SQL 30 Questions
+
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/blob/master/SQL%2030%20Questions
+
+challeges your SQL knowledge with those SQL questions
+
+Skillshare Course:
+
+https://www.skillshare.com/classes/SQL-Interview-30-Simple-SQL-Interview-Queries-in-2019/809081836
+
+SQL Queries - Practice your SQL Knowledge
+
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/blob/master/SQL%20Queries%20-%20Practice%20your%20SQL%20Knowledge
+
+challeges your knowledge with those SQL questions
+
+Skillshare Course:
+
+https://www.skillshare.com/classes/SQL-Queries-Practice-your-SQL-Knowledge/465058562
+
+SQL for Data Analysis - Weekender Crash Course
+
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/blob/master/SQL%20for%20Data%20Analysis%20-%20Weekender%20Crash%20Course
+
+beginner challenges with fun instructors.
+
+Udemy Course: 
+
+https://www.udemy.com/course/sql-for-newbs/
+
+Complete SQL & Databases - ZTM
+
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/blob/master/Complete%20SQL%20%26%20Databases%20-%20ZTM
+
+
 
 
 
